@@ -24,7 +24,11 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
   <br>
 </p>
 
@@ -32,12 +36,13 @@ Here are some ideas to get you started:
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
-  <a href="https://velog.io/@paxwillman"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@paxwillman"/></a>&nbsp
-  <a href="https://www.instagram.com/kyumumm/?hl=ko"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kyumumm/?hl=ko/"/></a>&nbsp
-  <a href="mailto:rlatjsrua02@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=rlatjsrua02@naver.com"/></a>
+  
+  <a href="https://www.youtube.com/channel/UCxjcAUI7JJ3HDbgrg7-vJRg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCxjcAUI7JJ3HDbgrg7-vJRg"/></a>
+  <a href="https://www.instagram.com/2_juzzang/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/2_juzzang/"/></a>
 </p>
 <br>
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwookyoungkim&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2Juzzang&count_bg=%236BA4F8&title_bg=%230E1116&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"
+         style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
 </p>
