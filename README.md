@@ -37,10 +37,11 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="center"> 🧸 Contact Me 🧸 </h3>
+<h3 align="center"> 🧸 Collab tool 🧸 </h3>
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCxjcAUI7JJ3HDbgrg7-vJRg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCxjcAUI7JJ3HDbgrg7-vJRg"/></a>
-  <a href="https://www.instagram.com/2_juzzang/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/2_juzzang/"/></a>
+ <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp 
 </p>
 <br>
 
