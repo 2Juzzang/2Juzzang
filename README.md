@@ -31,8 +31,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
   <br/>
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Styled components-DB7093?style=flat-square&logo=Styled components&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind&logoColor=white"/></a>&nbsp
   <br>
 </p>
 
@@ -47,9 +47,11 @@ Here are some ideas to get you started:
 
 <h3 align="center"> 🎸 Etc tool 🎸 </h3>
 <p align="center">
- <img src="https://img.shields.io/badge/Adobe Illustrator-#FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/></a>&nbsp 
- <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp 
- <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/></a>&nbsp 
+ 
 </p>
 <br>
 
