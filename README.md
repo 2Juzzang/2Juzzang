@@ -61,5 +61,5 @@ Here are some ideas to get you started:
          style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2Juzzang&include_all_commits-true&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2Juzzang&include_all_commits=true&show_icons=true&theme=radical)
 </div
